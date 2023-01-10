@@ -20,8 +20,11 @@ export default function App(props: AppProps & { colorScheme: ColorScheme }) {
       <Head>
         <title>Mantine next example</title>
         <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width" />
-        <meta name="description" content="This is an example of a
-meta description. This will often show up in search results."></meta>
+        <meta
+          name="description"
+          content="This is an example of a
+meta description. This will often show up in search results."
+        ></meta>
         <link rel="shortcut icon" href="/favicon.svg" />
       </Head>
 
